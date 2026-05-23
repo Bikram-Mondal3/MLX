@@ -1,0 +1,46 @@
+{
+  "folds": [
+    {
+      "fold": 1,
+      "rmse": 121.12492489402888,
+      "mae": 56.41406411781691,
+      "train_rows": 16035,
+      "valid_rows": 3969,
+      "selected_features": 23
+    },
+    {
+      "fold": 2,
+      "rmse": 116.19233289271867,
+      "mae": 53.251335204355705,
+      "train_rows": 15977,
+      "valid_rows": 4027,
+      "selected_features": 23
+    },
+    {
+      "fold": 3,
+      "rmse": 98.93851538643182,
+      "mae": 45.29807379189896,
+      "train_rows": 15997,
+      "valid_rows": 4007,
+      "selected_features": 23
+    },
+    {
+      "fold": 4,
+      "rmse": 116.82175467522721,
+      "mae": 56.717862653479145,
+      "train_rows": 16043,
+      "valid_rows": 3961,
+      "selected_features": 23
+    },
+    {
+      "fold": 5,
+      "rmse": 114.58715656932912,
+      "mae": 51.51564300652698,
+      "train_rows": 15964,
+      "valid_rows": 4040,
+      "selected_features": 23
+    }
+  ],
+  "overall_rmse": 113.77005684254189,
+  "overall_mae": 52.621604716681404
+}
